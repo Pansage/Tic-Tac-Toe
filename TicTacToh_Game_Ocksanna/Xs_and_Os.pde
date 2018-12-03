@@ -1,8 +1,8 @@
 {
 
-  void textSetup();
-  void GUIDesign();
-  void quitButtonSetup();
+ // void textSetup();
+  //void GUIDesign();
+  //void quitButtonSetup();
 
   for (int i=0; i < noDraw.length; i++); 
   {
