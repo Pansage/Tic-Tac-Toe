@@ -14,9 +14,9 @@ void textSetup() {
   //printArray(fontList); //For listing all possible fonts to choose, then createFont
 
   //Load a Font:
-  levelFont = createFont ("YuGothicUI-Light", 90); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
-  xoFont = createFont ("Stencil", 90);
-  playerFont = createFont ("Stencil", 90);
+  levelFont = createFont ("Stencil", 90); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
+  xoFont = createFont ("Palace Script MT", 90);
+  playerFont = createFont ("SimSun", 90);
   scoreFont = createFont ("Stencil", 90);
 
   //Tik Tac Toe
